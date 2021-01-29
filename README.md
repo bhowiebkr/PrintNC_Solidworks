@@ -1,6 +1,6 @@
 # PrintNC in Solidworks
 
-This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. 
+This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. For more information on PrintNC see the [website](https://threedesign.store/) and the [wiki](https://wiki.printnc.info/en/home)
 
 ## Progress
 I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt. Starting to work on the gantry and base next from V2.X alpha.
