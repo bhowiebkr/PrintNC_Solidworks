@@ -1,0 +1,7 @@
+﻿"M5_tap"=4.2mm
+"M5_clearence"=5.5mm
+"M6_tap"=5mm
+"M6_clearence"=6.6mm
+
+
+
