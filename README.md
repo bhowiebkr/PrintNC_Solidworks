@@ -16,7 +16,7 @@ I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt
 
 ## PrintNC standard size
 Here is the standard size:
-![standard size](images\PrintNC_standard_size.PNG)
+![standard size](images/PrintNC_standard_size.png)
 
 ## Paramizered sizes:
 ![2000x600 size](images\PrintNC_param_2000x600.PNG)
