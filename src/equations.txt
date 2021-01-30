@@ -2,6 +2,5 @@
 "M5_clearence"=5.5mm
 "M6_tap"=5mm
 "M6_clearence"=6.6mm
-
-
-
+"work_area_width"=1100mm
+"work_area_depth"=900mm
