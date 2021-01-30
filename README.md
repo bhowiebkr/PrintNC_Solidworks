@@ -13,4 +13,15 @@ I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt
 - The main assembly is broken up into sub-assemblies. Each subassembly is defined by its motion axis. When complete there will be x, y, z axis and frame sub-assemblies under the main assembly.
 - Some parts have a 1 at the end of their names. This is so they don’t conflict with the imported IGST files I’m using as reference. Once the references are no longer needed, I will fix the naming of the part files.
 
+
+## PrintNC standard size
+Here is the standard size:
+![Z-axis](images/PrintNC_standard_size.PNG)
+
+## Paramizered sizes:
+![Z-axis](images/PrintNC_param_2000x600.PNG)
+![Z-axis](images/PrintNC_param_500x500.PNG)
+
+### Some other iamges:
 ![Z-axis](images/Z-axis.PNG)
+![Z-axis](images/PrintNC_closeup.PNG)
