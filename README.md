@@ -16,12 +16,12 @@ I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt
 
 ## PrintNC standard size
 Here is the standard size:
-![Z-axis](images/PrintNC_standard_size.PNG)
+![standard size](images\PrintNC_standard_size.PNG)
 
 ## Paramizered sizes:
-![Z-axis](images/PrintNC_param_2000x600.PNG)
-![Z-axis](images/PrintNC_param_500x500.PNG)
+![2000x600 size](images\PrintNC_param_2000x600.PNG)
+![500x500 size](images\PrintNC_param_500x500.PNG)
 
 ### Some other iamges:
-![Z-axis](images/Z-axis.PNG)
-![Z-axis](images/PrintNC_closeup.PNG)
+![Z-axis](images\Z-axis.PNG)
+![closeup](images\PrintNC_closeup.PNG)
