@@ -19,9 +19,9 @@ Here is the standard size:
 ![standard size](images/PrintNC_standard_size.png)
 
 ## Paramizered sizes:
-![2000x600 size](images\PrintNC_param_2000x600.PNG)
-![500x500 size](images\PrintNC_param_500x500.PNG)
+![2000x600 size](images/PrintNC_param_2000x600.PNG)
+![500x500 size](images/PrintNC_param_500x500.PNG)
 
 ### Some other iamges:
-![Z-axis](images\Z-axis.PNG)
-![closeup](images\PrintNC_closeup.PNG)
+![Z-axis](images/Z-axis.PNG)
+![closeup](images/PrintNC_closeup.PNG)
