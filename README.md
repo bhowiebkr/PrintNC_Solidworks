@@ -2,6 +2,9 @@
 
 This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. For more information on PrintNC see the [website](https://threedesign.store/) and the [wiki](https://wiki.printnc.info/en/home)
 
+- See the develop branch for the parametric steel version in progress.
+- if you have an issue with the file, create an issue and and show a print screen and details of what is happining. because I'm on solidworks 2016 I cann't open files created from future versions. 
+
 ## Progress
 I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt. Starting to work on the gantry and base next from V2.X alpha.
 
