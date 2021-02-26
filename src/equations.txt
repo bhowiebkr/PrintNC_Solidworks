@@ -6,33 +6,33 @@
 "work_area_width"=1100mm
 "work_area_depth"=900mm
 
-"steel_base_width"=80mm
-"steel_base_height"=50mm
-"steel_base_wall_thickness"=3mm
+"steel_base_width"=3in	
+"steel_base_height"=2in
+"steel_base_wall_thickness"=0.125in
 "steel_base_radius"=6mm
 
-"steel_sides_width"=80mm				'this tube is rotated so flip width/height
-"steel_sides_height"=50mm				'this tube is rotated so flip width/height
-"steel_sides_wall_thickness"=3mm
+"steel_sides_width"=3in					'this tube is rotated so flip width/height
+"steel_sides_height"=2in				'this tube is rotated so flip width/height
+"steel_sides_wall_thickness"=0.125in
 "steel_sides_radius"=6mm
 
-"steel_gantry_width"=80mm				'this tube is rotated so flip width/height
-"steel_gantry_height"=50mm				'this tube is rotated so flip width/height
-"steel_gantry_wall_thickness"=3mm
+"steel_gantry_width"=4in				'this tube is rotated so flip width/height
+"steel_gantry_height"=3in				'this tube is rotated so flip width/height
+"steel_gantry_wall_thickness"=0.125in
 "steel_gantry_radius"=6mm
 
-"steel_rollers_width"=80mm
-"steel_rollers_height"=50mm				'keep as low as possible as this increases how big plastic parts are
-"steel_rollers_wall_thickness"=3mm
+"steel_rollers_width"=3in
+"steel_rollers_height"=2in				'keep as low as possible as this increases how big plastic parts are
+"steel_rollers_wall_thickness"=0.125in
 "steel_rollers_radius"=6mm
 
-"steel_zbox_width"=80mm					'if the gantry height (rotated) is too thick, a wider zbox is necessary
-"steel_zbox_height"=50mm				'hole patteren changes as the zbox and gantry height (rotated) changes.
-"steel_zbox_wall_thickness"=3mm
+"steel_zbox_width"=4in					'if the gantry height (rotated) is too thick, a wider zbox is necessary
+"steel_zbox_height"=2in					'hole patteren changes as the zbox and gantry height (rotated) changes.
+"steel_zbox_wall_thickness"=0.125in
 "steel_zbox_radius"=6mm
 
-"alu_zangle_width"=80mm					'check that it doesn't interfer with the gantry
-"alu_zangle_height"=50mm
-"alu_zangle_wall_thickness"=7mm		'check that it doesn't interfer with the gantry
+"alu_zangle_width"=3.5in					'check that it doesn't interfer with the gantry
+"alu_zangle_height"=2in
+"alu_zangle_wall_thickness"=0.25in			'check that it doesn't interfer with the gantry
 
 
