@@ -14,16 +14,16 @@ I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt
 - Some parts have a 1 at the end of their names. This is so they don’t conflict with the imported IGST files I’m using as reference. Once the references are no longer needed, I will fix the naming of the part files.
 
 
-![table](images\table_01.png)
+![table](images/table_01.png)
 
 ## PrintNC standard size
 Here is the standard size:
-![standard size](images\PrintNC_standard_size.PNG)
+![standard size](images/PrintNC_standard_size.png)
 
 ## Paramizered sizes:
-![2000x600 size](images\PrintNC_param_2000x600.PNG)
-![500x500 size](images\PrintNC_param_500x500.PNG)
+![2000x600 size](images/PrintNC_param_2000x600.png)
+![500x500 size](images/PrintNC_param_500x500.png)
 
 ### Some other iamges:
-![Z-axis](images\Z-axis.PNG)
-![closeup](images\PrintNC_closeup.PNG)
+![Z-axis](images/Z-axis.png)
+![closeup](images/PrintNC_closeup.png)
