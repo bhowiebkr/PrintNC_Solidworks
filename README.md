@@ -1,4 +1,4 @@
-# PrintNC in Solidworks
+# DEV BRANCH PrintNC in Solidworks
 
 This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. For more information on PrintNC see the [website](https://threedesign.store/) and the [wiki](https://wiki.printnc.info/en/home)
 
@@ -16,6 +16,8 @@ I’ve just started out so not too much. I have the new V3 Z-axis mostly rebuilt
 - The main assembly is broken up into sub-assemblies. Each subassembly is defined by its motion axis. When complete there will be x, y, z axis and frame sub-assemblies under the main assembly.
 - Some parts have a 1 at the end of their names. This is so they don’t conflict with the imported IGST files I’m using as reference. Once the references are no longer needed, I will fix the naming of the part files.
 
+
+![table](images/table_01.png)
 
 ## PrintNC standard size
 Here is the standard size:
