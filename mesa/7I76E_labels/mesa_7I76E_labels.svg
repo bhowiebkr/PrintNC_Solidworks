@@ -30,20 +30,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="619.31421"
-     inkscape:cy="274.324"
+     inkscape:zoom="5.6"
+     inkscape:cx="480.66098"
+     inkscape:cy="248.23754"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="3780"
-     inkscape:window-height="2081"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1709"
+     inkscape:window-height="1484"
+     inkscape:window-x="1718"
+     inkscape:window-y="364"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        position="28,290.31826"
        orientation="-1,0"
@@ -1434,182 +1434,178 @@
            y="62.287724"
            style="font-size:1.5px;stroke-width:0.039502">PWR+</tspan></text>
     </g>
-    <g
-       id="g3298"
-       transform="translate(43.427276,44.187517)">
-      <rect
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect10-06"
-         width="28"
-         height="9"
-         x="62.57272"
-         y="15.812484" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
-         x="-23.631798"
-         y="78.738815"
-         id="text915-1-5"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-2"
-           x="-23.631798"
-           y="78.738815"
-           style="font-size:1.5px;stroke-width:0.039502">SPI+</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0370647"
-         x="-22.893883"
-         y="85.71907"
-         id="text915-1-3-6-85"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-1-8"
-           x="-22.893883"
-           y="85.71907"
-           style="font-size:1.5px;stroke-width:0.0370647">NC</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
-         x="-24.239708"
-         y="71.75856"
-         id="text915-1-3-8-7"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-49"
-           x="-24.239708"
-           y="71.75856"
-           style="font-size:1.5px;stroke-width:0.039502">S-EN+</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
-         x="-24.330528"
-         y="68.268433"
-         id="text915-1-3-8-5-3"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-3-02"
-           x="-24.330528"
-           y="68.268433"
-           style="font-size:1.5px;stroke-width:0.0345853">S-DIR-</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
-         x="-24.619469"
-         y="64.778305"
-         id="text915-1-3-8-5-6-40"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-3-7-5"
-           x="-24.619469"
-           y="64.778305"
-           style="font-size:1.5px;stroke-width:0.0345853">S-DIR+</tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-03"
-         width="3.4999995"
-         height="6"
-         x="69.572716"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-4-223"
-         width="3.4999995"
-         height="6"
-         x="73.072716"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-1-35"
-         width="3.4999995"
-         height="6"
-         x="76.572723"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-15-9"
-         width="3.4999995"
-         height="6"
-         x="80.072723"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-74-0"
-         width="3.4999995"
-         height="6"
-         x="66.072716"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-18-04"
-         width="3.4999995"
-         height="6"
-         x="62.57272"
-         y="18.812485" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0649662"
-         x="72.621429"
-         y="18.328983"
-         id="text915-18-9"><tspan
-           sodipodi:role="line"
-           id="tspan913-8-8"
-           x="72.621429"
-           y="18.328983"
-           style="font-size:2.5px;stroke-width:0.0649662">SPINDLE</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
-         x="-23.368492"
-         y="89.209198"
-         id="text915-1-3-8-5-9-1"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-3-5-0"
-           x="-23.368492"
-           y="89.209198"
-           style="font-size:1.5px;stroke-width:0.0345853">SPI-</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
-         x="-24.426231"
-         y="82.228943"
-         id="text915-1-3-8-5-6-7-2"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-3-7-8-0"
-           x="-24.426231"
-           y="82.228943"
-           style="font-size:1.5px;stroke-width:0.0345853">SPI <tspan
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10-06"
+       width="28"
+       height="9"
+       x="105.99999"
+       y="60" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
+       x="-67.819313"
+       y="125.65622"
+       id="text915-1-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-2"
+         x="-67.819313"
+         y="125.65622"
+         style="font-size:1.5px;stroke-width:0.039502">SPI+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0370647"
+       x="-67.081398"
+       y="122.16609"
+       id="text915-1-3-6-85"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-1-8"
+         x="-67.081398"
+         y="122.16609"
+         style="font-size:1.5px;stroke-width:0.0370647">NC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
+       x="-68.427223"
+       y="115.18584"
+       id="text915-1-3-8-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-49"
+         x="-68.427223"
+         y="115.18584"
+         style="font-size:1.5px;stroke-width:0.039502">S-EN+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
+       x="-68.518044"
+       y="111.69571"
+       id="text915-1-3-8-5-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-3-02"
+         x="-68.518044"
+         y="111.69571"
+         style="font-size:1.5px;stroke-width:0.0345853">S-DIR-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
+       x="-68.806984"
+       y="108.20558"
+       id="text915-1-3-8-5-6-40"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-3-7-5"
+         x="-68.806984"
+         y="108.20558"
+         style="font-size:1.5px;stroke-width:0.0345853">S-DIR+</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-03"
+       width="3.4999995"
+       height="6"
+       x="112.99999"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-4-223"
+       width="3.4999995"
+       height="6"
+       x="116.49999"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-1-35"
+       width="3.4999995"
+       height="6"
+       x="120"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-15-9"
+       width="3.4999995"
+       height="6"
+       x="123.5"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-74-0"
+       width="3.4999995"
+       height="6"
+       x="109.49999"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-18-04"
+       width="3.4999995"
+       height="6"
+       x="105.99999"
+       y="63" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0649662"
+       x="116.04871"
+       y="62.516499"
+       id="text915-18-9"><tspan
+         sodipodi:role="line"
+         id="tspan913-8-8"
+         x="116.04871"
+         y="62.516499"
+         style="font-size:2.5px;stroke-width:0.0649662">SPINDLE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
+       x="-67.556007"
+       y="132.63647"
+       id="text915-1-3-8-5-9-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-3-5-0"
+         x="-67.556007"
+         y="132.63647"
+         style="font-size:1.5px;stroke-width:0.0345853">SPI-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0345853"
+       x="-68.613747"
+       y="129.14635"
+       id="text915-1-3-8-5-6-7-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-3-7-8-0"
+         x="-68.613747"
+         y="129.14635"
+         style="font-size:1.5px;stroke-width:0.0345853">SPI <tspan
    style="font-size:1px"
    id="tspan3140-6">OUT</tspan></tspan></text>
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-74-3-38"
-         width="3.4999995"
-         height="6"
-         x="87.072723"
-         y="18.812485" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect837-3-31-84-18-4-80"
-         width="3.4999995"
-         height="6"
-         x="83.572723"
-         y="18.812485" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
-         x="-23.987389"
-         y="75.248688"
-         id="text915-1-3-8-2-1"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan913-4-8-6-4-1"
-           x="-23.987389"
-           y="75.248688"
-           style="font-size:1.5px;stroke-width:0.039502">S-EN-</tspan></text>
-    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-74-3-38"
+       width="3.4999995"
+       height="6"
+       x="130.5"
+       y="63" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837-3-31-84-18-4-80"
+       width="3.4999995"
+       height="6"
+       x="127"
+       y="63" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.5px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.039502"
+       x="-68.174904"
+       y="118.67596"
+       id="text915-1-3-8-2-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan913-4-8-6-4-1"
+         x="-68.174904"
+         y="118.67596"
+         style="font-size:1.5px;stroke-width:0.039502">S-EN-</tspan></text>
     <g
        id="g4567"
        transform="translate(14,76.592942)">
