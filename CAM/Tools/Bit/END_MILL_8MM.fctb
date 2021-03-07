@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "END_MILL_8MM",
+  "shape": "F:/FreeCAD/FreeCAD-asm3-Daily-Win64-Py3-Qt5-20210301/Mod/Path/Tools/Shape/endmill.fcstd",
+  "parameter": {},
+  "attribute": {}
+}
