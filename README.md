@@ -10,16 +10,23 @@ Because of the difficulty in keeping the solidworks files in line with the fusio
 
 ## Notes
 - See [equations.txt](src/equations.txt) for hole tapping and clearence, width, height, steel dimensions used in the files.
-- Where possible I keep similar parts as different configurations. eg metric bolt lengths, steel stock, etc. This cuts down on the number of part files.
 - The main assembly is broken up into sub-assemblies. Each subassembly is defined by its motion axis. When complete there will be x, y, z axis and frame sub-assemblies under the main assembly.
-- Some parts have a 1 at the end of their names. This is so they don’t conflict with the imported IGST files I’m using as reference. Once the references are no longer needed, I will fix the naming of the part files.
+- All steel tubes in the CNC machine, table, and enclosure have been converted to [Weldments](https://help.solidworks.com/2020/english/SolidWorks/sldworks/c_Weldments_Overview.htm). This is to have all the steel conform to a standard for the drawings. In turn this has made the [equations.txt](src/equations.txt) file for setting these values no longer work. If you want to change a tube size, it is best to do it in the part level and modify the weldment profile to the steel that you want to use. This will allow the configurations to properly update the drawing/pdf files. 
+
 
 ## Steel table and enclosure
 ![table](images/table_01.png)
+![2000x600 size](src/drawings/png/All_Steel.PNG)
 
 ## PrintNC standard size
 ![standard size](images/PrintNC_standard_size.png)
 
+## Drawings
+![2000x600 size](src/drawings/png/CNC_Steel.PNG)
+![2000x600 size](src/drawings/png/enclosure.PNG)
+![2000x600 size](src/drawings/png/table.PNG)
+
 ## Paramizered sizes:
 ![2000x600 size](images/PrintNC_param_2000x600.png)
 ![500x500 size](images/PrintNC_param_500x500.png)
+
