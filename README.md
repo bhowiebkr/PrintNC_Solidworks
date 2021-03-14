@@ -1,5 +1,7 @@
 # PrintNC in Solidworks
 
+For FreeCAD version see (PrintNC FreeCAD)[https://github.com/bhowiebkr/PrintNC_FreeCAD]
+
 This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. For more information on PrintNC see the [website](https://threedesign.store/) and the [wiki](https://wiki.printnc.info/en/home)
 
 Because of the difficulty in keeping the solidworks files in line with the fusion 360 files, they will never be 1-to1. If you want to build a modified PrintNC and you know Solidworks, these files can be useful in designing your CNC machine. Otherwise you are much better off following the official [Fusion 360 files](https://wiki.printnc.info/en/project-files).
