@@ -1,6 +1,6 @@
 # PrintNC in Solidworks
 
-For FreeCAD version see (PrintNC FreeCAD)[https://github.com/bhowiebkr/PrintNC_FreeCAD]
+For FreeCAD version see [PrintNC FreeCAD](https://github.com/bhowiebkr/PrintNC_FreeCAD)
 
 This is the [PrintNC](https://github.com/threedesigns/printNC) design rebuilt in Solidworks from the original Fusion360 files. For more information on PrintNC see the [website](https://threedesign.store/) and the [wiki](https://wiki.printnc.info/en/home)
 
