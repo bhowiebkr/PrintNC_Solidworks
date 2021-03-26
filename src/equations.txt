@@ -33,6 +33,6 @@
 
 "alu_zangle_width"=3.5in					'check that it doesn't interfer with the gantry
 "alu_zangle_height"=2in
-"alu_zangle_wall_thickness"=0.25in			'check that it doesn't interfer with the gantry
+"alu_zangle_wall_thickness"=0.375in			'check that it doesn't interfer with the gantry
 
 
