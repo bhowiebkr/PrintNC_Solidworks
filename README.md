@@ -8,7 +8,7 @@ Because of the difficulty in keeping the solidworks files in line with the fusio
 
 
 ## Disclaimer
-**WARNING** This is still very much a work-in-progress. I cannot guarantee that there are no part interference, hole alignment mismatch, etc. The design will get more refined over time, but as for now **USE AT YOUR OWN RISK!** If you are building the standard size make sure that your rails and ball screws are the correct length before you cut/order your structural steel. The files here are slightly shorter in the X-axis than the standard size [Aliexpress kit](https://www.aliexpress.com/item/4000566570364.html?aff_fcid=02751b3aed7d4ec69e65024715221520-1617764747728-00342-3XmrR62y&aff_fsk=3XmrR62y&aff_platform=link-c-tool&sk=3XmrR62y&aff_trace_key=02751b3aed7d4ec69e65024715221520-1617764747728-00342-3XmrR62y&terminal_id=c3de3f37550a45a88f3d6332ee4903d8&tmLog=new_Detail).
+**WARNING** This is still very much a work-in-progress. I cannot guarantee that there are no part interference, hole alignment mismatch, etc. The design will get more refined over time, but as for now **USE AT YOUR OWN RISK!** If you are building the standard size make sure that your rails and ball screws are the correct length before you cut/order your structural steel. The files here are slightly shorter in the X-axis than the standard size [Aliexpress kit](http://s.click.aliexpress.com/e/3XmrR62y).
 
 ## Notes
 - See [equations.txt](src/equations.txt) for hole tapping and clearence, width, height, steel dimensions used in the files.
