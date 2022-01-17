@@ -15,6 +15,10 @@ Because of the difficulty in keeping the solidworks files in line with the fusio
 - The main assembly is broken up into sub-assemblies. Each subassembly is defined by its motion axis. When complete there will be x, y, z axis and frame sub-assemblies under the main assembly.
 - All steel tubes in the CNC machine, table, and enclosure have been converted to [Weldments](https://help.solidworks.com/2020/english/SolidWorks/sldworks/c_Weldments_Overview.htm). This is to have all the steel conform to a standard for the drawings. In turn this has made the [equations.txt](src/equations.txt) file for setting these values no longer work. If you want to change a tube size, it is best to do it in the part level and modify the weldment profile to the steel that you want to use. This will allow the configurations to properly update the drawing/pdf files. 
 
+Youtube Video:
+
+[![PrintNC Solidworks](https://img.youtube.com/vi/d3iLd3f8cAA/0.jpg)](https://www.youtube.com/watch?v=d3iLd3f8cAA)
+
 
 ## Steel table and enclosure
 ![table](images/table_01.png)
