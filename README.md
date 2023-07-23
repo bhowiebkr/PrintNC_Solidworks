@@ -1,3 +1,4 @@
+# This repo is no longer maintained anymore. See the offical Fusion 360 files located on the WIKI: https://wiki.printnc.info/en/home 
 # PrintNC in Solidworks
 
 For **FreeCAD** version see [PrintNC FreeCAD](https://github.com/bhowiebkr/PrintNC_FreeCAD)
